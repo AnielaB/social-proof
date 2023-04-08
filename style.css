@@ -159,6 +159,11 @@ body {
     gap: 7rem;
   }
 
+  .main-title,
+  .main-text {
+    width: max(100%, 500px);
+  }
+
   .main-content {
     width: 50%;
     text-align: left;
