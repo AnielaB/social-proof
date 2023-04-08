@@ -171,8 +171,11 @@ body {
     font-size: 3.5rem;
   }
 
-  .rating {
+  .ratings-container {
     width: 50%;
+  }
+
+  .rating {
     line-height: normal;
     display: flex;
     flex-direction: column;
